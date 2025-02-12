@@ -10,9 +10,8 @@
   <h2> Key Features</h2>
   <ul>
         <li> Secure User Authentication (JWT & bcrypt)</li>
-        <li> Real-Time Chat using WebSockets</li>
-        <li> Data Persistence with MongoDB</li>
-        <li> Frontend built with React and  CSS</li>
+       <li> Data Persistence with MongoDB</li>
+       <li> Frontend built with React and  CSS</li>
     </ul>
     
 <h2>⚙️ Installation & Setup</h2>
